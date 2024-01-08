@@ -8,6 +8,9 @@
 <body>
   <form action="pag2.php" method="get">
     <textarea name="name" id="name" cols="30" rows="10"></textarea>
+
+    <label for="word">Inserisci parola da censurare</label>
+    <input type="text" name='word' id='word'>
     <button>invia</button>
   </form>
 </body>
