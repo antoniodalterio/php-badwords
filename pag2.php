@@ -37,7 +37,7 @@
     </p>
 
     <p>
-      la frase ha una lunghezza di, 
+      La frase ha una lunghezza di, 
       <?php echo strlen($text); ?>,
       caratteri.
     </p>
